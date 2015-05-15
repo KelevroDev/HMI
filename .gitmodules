@@ -8,3 +8,6 @@
 	path = Media
 	url = https://github.com/KelevroDev/Media
 	branch = branch2
+[submodule "htoyota"]
+	path = htoyota
+	url = https://adc.luxoft.com/stash/scm/htoyota/htoyota.git
