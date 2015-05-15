@@ -1,0 +1,10 @@
+[submodule "mediaSubModule"]
+	path = mediaSubModule
+	url = https://github.com/KelevroDev/Media.git
+[submodule "TOYOTA-SUBMODULE"]
+	path = TOYOTA-SUBMODULE
+	url = https://adc.luxoft.com/stash/scm/htoyota/htoyota.git
+[submodule "Media"]
+	path = Media
+	url = https://github.com/KelevroDev/Media
+	branch = branch2
